@@ -24,8 +24,9 @@ body {
 
 img {
     border-radius: 50%;
+    width: 300px;
   } 
-  
+
 #spinner {
     animation: rotate 0.56s infinite linear;
     width:50px;
