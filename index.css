@@ -21,6 +21,11 @@ body {
     flex-direction: column;
     align-items: center;
 }
+
+img {
+    border-radius: 50%;
+  } 
+  
 #spinner {
     animation: rotate 0.56s infinite linear;
     width:50px;
